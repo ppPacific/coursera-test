@@ -1,4 +1,8 @@
 body {
   background-color: #a5e9f0;
-  
+  font-family: system-ui;
+}
+
+#header-nav {
+	background-color: #063970;
 }
